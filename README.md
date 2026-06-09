@@ -10,11 +10,14 @@ The code is saved in the `assignment1-standard-scale/` along with the csv file a
 The code and the output are given below.
 
 ## *Code*
-![program](output/program.png)
-![predict](output/predict.png)
+![program](code/programcode.png)
+![predict](code/predictcode.png)
 
 ## *Output*
+**program output**
 ![Program Output](output/programoutput.png)
+
+**predict output**
 ![Predict Output](output/predictoutput.png)
 
 ## Final Answer
